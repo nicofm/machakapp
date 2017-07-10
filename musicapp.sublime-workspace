@@ -1,0 +1,347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"col-lg-10"
+			],
+			[
+				"fr",
+				"form\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"col",
+				"col-lg-11"
+			],
+			[
+				"song",
+				"songStored"
+			],
+			[
+				"fi",
+				"findByIdAndUpdate"
+			],
+			[
+				"son",
+				"songId"
+			],
+			[
+				"f",
+				"find"
+			],
+			[
+				"ge",
+				"getSong"
+			],
+			[
+				"re",
+				"req"
+			],
+			[
+				"albu",
+				"albumId"
+			],
+			[
+				"al",
+				"album"
+			],
+			[
+				"fin",
+				"findById"
+			],
+			[
+				"art",
+				"artist"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"ar",
+				"artistRemoved"
+			],
+			[
+				"arti",
+				"artistRemoved"
+			],
+			[
+				"artist",
+				"artistRemoved"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"getA",
+				"getArtists"
+			],
+			[
+				"artis",
+				"artists"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"get",
+				"getArtist"
+			],
+			[
+				"fil",
+				"file_split"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"path",
+				"path_file"
+			],
+			[
+				"image",
+				"imageFile"
+			],
+			[
+				"user",
+				"userUpdated"
+			],
+			[
+				"file",
+				"file_ext"
+			],
+			[
+				"file_",
+				"file_name"
+			],
+			[
+				"md_",
+				"md_upload"
+			],
+			[
+				"use",
+				"userId"
+			],
+			[
+				"upda",
+				"updateUser"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"aut",
+				"autorization"
+			],
+			[
+				"log",
+				"loginUser"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nico/musicapp/client/src/index.html",
+		"/Users/nico/musicapp/client/src/assets/css/styles.css",
+		"/Users/nico/musicapp/client/src/app/models/user.ts",
+		"/Users/nico/musicapp/client/src/app/models/artist.ts",
+		"/Users/nico/musicapp/client/src/app/models/album.ts",
+		"/Users/nico/musicapp/client/src/app/models/song.ts",
+		"/Users/nico/musicapp/client/src/assets/bootstrap/css/styles.css",
+		"/Users/nico/musicapp/client/src/app/app.component.ts",
+		"/Users/nico/musicapp/controllers/artist.js",
+		"/Users/nico/musicapp/controllers/album.js",
+		"/Users/nico/musicapp/controllers/user.js",
+		"/Users/nico/musicapp/controllers/song.js",
+		"/Users/nico/musicapp/routes/song.js",
+		"/Users/nico/musicapp/app.js",
+		"/Users/nico/musicapp/routes/artist.js",
+		"/Users/nico/musicapp/routes/album.js",
+		"/Users/nico/musicapp/routes/user.js",
+		"/Users/nico/musicapp/services/jwt.js",
+		"/Users/nico/musicapp/middlewares/authenticated.js",
+		"/Users/nico/curso-mean2/controllers/user.js",
+		"/Users/nico/musicapp/models/user.js",
+		"/Users/nico/musicapp/models/album.js",
+		"/Users/nico/musicapp/models/artist.js",
+		"/Users/nico/musicapp/models/song.js",
+		"/Users/nico/curso-mean2/models/song.js",
+		"/Users/nico/curso-mean2/models/album.js",
+		"/Users/nico/musicapp/artist.js",
+		"/Users/nico/curso-mean2/models/artist.js",
+		"/Users/nico/curso-mean2/app.js",
+		"/Users/nico/curso-mean2/models/user.js",
+		"/Users/nico/musicapp/index.js",
+		"/Users/nico/musicapp/package.json",
+		"/Users/nico/curso-mean2/index.js",
+		"/Users/nico/curso-mean2/Controllers/user.js",
+		"/Users/nico/curso-mean2/middlewares/autenticated.js",
+		"/Users/nico/curso-mean2/services/jwt.js",
+		"/Users/nico/curso-mean2/routes/user.js",
+		"/Users/nico/curso-mean2/app_musica.sublime-project",
+		"/Users/nico/curso-mean2/proyecto_app_musica",
+		"/Users/nico/boxgo/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"route",
+				"routes/user.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
